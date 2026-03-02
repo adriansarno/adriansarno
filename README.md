@@ -13,11 +13,20 @@ I build end-to-end machine learning systems: data pipelines, model training, eva
 
 ## Selected Projects
 
-### 🧠 Reinforcement Learning & Control
+### Applied ML Projects
+  - Dosewise
+    - production-grade medical AI cloud application
+    - Dockerized services
+    - CI/CD (GitHub Actions)
+    - Cloud Run / GKE
+    - W&B experiment tracking
+    - React frontend
+
+### Reinforcement Learning & Control
 - Kalman filtering implementations
 - Sutton & Barto algorithm implementations
 
-### 🔬 Applied ML Projects
+### Applied ML Projects
 - Customer segmentation
 - Generative modeling (face generation)
 
