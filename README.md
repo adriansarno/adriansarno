@@ -22,13 +22,8 @@ I build end-to-end machine learning systems: data pipelines, model training, eva
     - W&B experiment tracking
     - React frontend
 
-### Reinforcement Learning & Control
-- Kalman filtering implementations
-- Sutton & Barto algorithm implementations
-
-### Applied ML Projects
-- Customer segmentation
-- Generative modeling (face generation)
+### Research
+  - ML-systems-foundations
 
 ## Currently Building
 A portfolio of production-grade AI cloud applications with:
